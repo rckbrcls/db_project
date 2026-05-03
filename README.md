@@ -1,5 +1,8 @@
 # db_project
 
+> **Status:** Archived
+> This academic project is kept for coursework reference, historical context, and portfolio review.
+
 Projeto acadêmico - Sistema de gerenciamento de reservas e atividades para instalações esportivas.
 
 **Disciplina**: SCC0641 – Laboratório de Bases de Dados
